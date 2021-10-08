@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a la documentación de Inamba.
 
 You can use the [editor on GitHub](https://github.com/inambacom/documentation/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
