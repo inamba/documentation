@@ -1,4 +1,2 @@
-# Documentación
+# Inamba Docs
 Un proyecto solamente para probar.
-<br>
-Bienvenidos.
